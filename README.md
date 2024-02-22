@@ -1,6 +1,7 @@
-### 👋 Hello! I'm Anushka Chougule, a third-year Computer Science student at the University of Washington.
+👋 Hello! I'm Anushka Chougule, a third-year Computer Science student at the University of Washington.
 👩🏽‍💻 Passionate about creating inclusive spaces and amplifying diverse voices in STEM, I'm committed to fostering an environment where everyone can thrive.
-
+💭 Actively seeking internship opportunities in the tech industry to apply and expand my skills in real-world setting.
+🤝 Let's Connect. You can reach me at Anuchoug@uw.edu.
 
 
 

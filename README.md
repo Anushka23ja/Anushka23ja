@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hello! I'm Anushka Chougule, a third-year Computer Science student at the University of Washington.
+👩🏽‍💻 Passionate about creating inclusive spaces and amplifying diverse voices in STEM, I'm committed to fostering an environment where everyone can thrive.
+
+
+
 
 <!--
 **Anushka23ja/Anushka23ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

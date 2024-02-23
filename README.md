@@ -1,7 +1,7 @@
 <p>👋 Hello! I'm Anushka Chougule, a third-year Computer Science student at the University of Washington.</p>
 <p>👩🏽‍💻 Passionate about creating inclusive spaces and amplifying diverse voices in STEM, I'm committed to fostering an environment where everyone can thrive.</p>
 <p>🎓 Graduated with an Associates in Integrated Studies DTA and Computer Programming Foundations Certificate from Cascadia College</p>
-<p>💭 Actively seeking internship opportunities in the tech industry to apply and expand my skills in real-world setting.</p>
+<p>💭 Proficient within: c++, javascript, python </p>
 <p>🤝Let's Connect. You can reach me at Anuchoug@uw.edu.</p>
 
 

@@ -3,7 +3,7 @@
 <p>🤝Let's Connect. You can reach me at Anuchoug@uw.edu.</p>
 
 <h2>Personal Projects</h2>
--  [Calculator](https://github.com/Anushka23ja/Calculator)
+<b><a href="https://github.com/Anushka23ja/Calculator">Calculator</a></b>
 
 
 

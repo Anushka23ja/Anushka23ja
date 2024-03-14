@@ -1,7 +1,9 @@
 <p>👋 Hello! I'm Anushka Chougule, a third-year Computer Science student at the University of Washington.</p>
 <p>👩🏽‍💻 Passionate about creating inclusive spaces and amplifying diverse voices in STEM, I'm committed to fostering an environment where everyone can thrive.</p>
-<p>🎓 Graduated with an Associates in Integrated Studies DTA and Computer Programming Foundations Certificate from Cascadia College</p>
 <p>🤝Let's Connect. You can reach me at Anuchoug@uw.edu.</p>
+
+<h2>Personal Projects</h2>
+-  [Calculator](https://github.com/Anushka23ja/Calculator)
 
 
 

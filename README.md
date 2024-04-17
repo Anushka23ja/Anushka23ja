@@ -3,9 +3,9 @@
 <p>🤝You can reach me at Anuchoug@uw.edu.</p>
 
 <h2>Personal Projects</h2>
-<b><a href="https://github.com/Anushka23ja/Nursery">Nursery</a></b>
-<b><a href="https://github.com/Anushka23ja/ExcelPlacement">ExcelPlacement </a></b>
-<b><a href="https://github.com/Anushka23ja/Calculator">Calculator</a></b>
+<p><a href="https://github.com/Anushka23ja/Nursery">Nursery</a></p> 
+<p><a href="https://github.com/Anushka23ja/ExcelPlacement">ExcelPlacement </a></p>
+<p><a href="https://github.com/Anushka23ja/Calculator">Calculator</a></p>
 
 
 

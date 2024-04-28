@@ -3,6 +3,7 @@
 <p>🤝You can reach me at Anuchoug@uw.edu.</p>
 
 <h2>Personal Projects</h2>
+<p><a href="https://github.com/Anushka23ja/MedBot">MedBot</a></p>
 <p><a href="https://github.com/Anushka23ja/Nursery">Garden Website</a></p> 
 <p><a href="https://github.com/Anushka23ja/ExcelPlacement">Placement Form Website </a></p>
 <p><a href="https://github.com/Anushka23ja/Calculator">Calculator</a></p>

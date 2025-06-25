@@ -1,11 +1,10 @@
-<p>👋 Hello! I'm Anushka Chougule, a fourth-year Computer Science student at the University of Washington.</p>
-<p>👩🏽‍💻 Passionate about creating inclusive spaces and amplifying diverse voices in STEM, I'm committed to fostering an environment where everyone can thrive.</p>
-<p>🤝You can reach me at Anuchoug@uw.edu.</p>
-
+<p>👋 Hi, I’m Anushka!</p>
+<p>👩‍💻 I’m passionate about AI and machine learning, which advance technology’s ability to address complex challenges in healthcare and business. I am interested in leveraging these tools to develop effective, real-world solutions that drive meaningful improvement and positive change.</p>
+<p>🎓 I hold a Bachelor of Science in Computer Science from the University of Washington and am actively seeking full-time opportunities in Software Engineering and AI/ML development.</p>
+<p>If you have opportunities or share similar interests, feel free to reach out at Anuchoug05@gmail.com!</p>
 <h2>Personal Projects</h2>
 <p><a href="https://github.com/Anushka23ja/MedBot">MedBot</a></p>
 <p><a href="https://github.com/Anushka23ja/Calculator">API Project</a></p>
-
 
 <!--
 **Anushka23ja/Anushka23ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

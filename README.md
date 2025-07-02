@@ -1,7 +1,7 @@
 <p>👋 Hi, I’m Anushka!</p>
 <p>👩‍💻 I’m passionate about AI and machine learning, which advance technology’s ability to address complex challenges in healthcare and business. I am interested in leveraging these tools to develop effective, real-world solutions that drive meaningful improvement and positive change.</p>
 <p>🎓 I hold a Bachelor of Science in Computer Science from the University of Washington and am actively seeking full-time opportunities in Software Engineering and AI/ML development.</p>
-<p>If you have opportunities or share similar interests, feel free to reach out at Anuchoug05@gmail.com!</p>
+<p>If you have opportunities or share similar interests, feel free to reach out at Anuchoug@uw.edu!</p>
 <h2>Personal Projects</h2>
 <p><a href="https://github.com/Anushka23ja/MedBot">MedBot</a></p>
 <p><a href="https://github.com/Anushka23ja/Calculator">API Project</a></p>

@@ -6,6 +6,7 @@
 <p><a href="https://github.com/Anushka23ja/CSS343">CSS 343: Data Structures, Algorithms, And Discrete Mathematics II </a></p>
 <p><a href="https://github.com/Anushka23ja/CSS422">CSS 422: Hardware and Computer Organization </a></p>
 <p><a href="https://github.com/Anushka23ja/CSS430">CSS 430: Operating Systems </a></p>
+<p><a href="https://github.com/Anushka23ja/CSS480">CSS 480: Principles of Human-Computer Interaction </a></p>
 <p><a href="https://github.com/Anushka23ja/CapstoneProject">Capstone: ML Models Predicting Physical Activity</a></p>
 
 <h2>Personal Projects</h2>

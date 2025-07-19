@@ -55,8 +55,6 @@ I'm a passionate developer with a love for **AI and machine learning**, especial
 | 🌐 JavaScript | [Frontend Projects](https://github.com/Anushka23ja/JavaScript-Learning) |
 | 🤖 Machine Learning | [ML Experiments](https://github.com/Anushka23ja/ML-Learning) |
 
-> ✨ I'm always exploring new tools, solving problems, and leveling up!
-
 ---
 
 ## 🧰 Tech Stack
@@ -75,13 +73,3 @@ I'm a passionate developer with a love for **AI and machine learning**, especial
 </p>
 
 ---
-
-## 🔥 Fun Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka23ja&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-</p>
-
----
-
-> 💡 *“Code is the closest thing we have to magic.”*

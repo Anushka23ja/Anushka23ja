@@ -4,7 +4,7 @@
 
 🎓 I hold a **B.S. in Computer Science** from the **University of Washington**, and I’m currently pursuing a Master’s in **Information Systems**. I'm actively seeking **full-time opportunities** in **Software Engineering** and **AI/ML development**.
 
-📫 Reach out if you want to collaborate or chat tech → [Anuchoug@uw.edu](mailto:Anuchoug@uw.edu)
+📫 Reach out if you want to collaborate [Anuchoug@uw.edu](mailto:Anuchoug@uw.edu)
 
 ---
 

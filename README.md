@@ -56,7 +56,7 @@ Ongoing practice, exercises, and notes from programming languages and tools I’
 
 ## 🌐 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushkaachougule/)
 [![Email](https://img.shields.io/badge/Email-Anuchoug@uw.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Anuchoug@uw.edu)
 
 ---

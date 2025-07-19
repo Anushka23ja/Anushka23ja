@@ -1,64 +1,87 @@
-# 👋 Hi, I’m Anushka!
+<h1 align="center">👋 Hi, I’m Anushka</h1>
 
-👩‍💻 I’m passionate about **AI and machine learning**, especially in how they can be used to solve complex real-world problems in **healthcare** and **business**. My goal is to use intelligent systems to develop solutions that drive meaningful improvement and positive change.
+<p align="center">
+  <em>👩‍💻 Software Engineer | 💡 Passionate about AI/ML | 🧠 Growing Through Code</em><br>
+  <strong>Engineering AI to Make Life Better.</strong>
+</p>
 
-🎓 I hold a **B.S. in Computer Science** from the **University of Washington**, and I’m currently pursuing a Master’s in **Information Systems**. I'm actively seeking **full-time opportunities** in **Software Engineering** and **AI/ML development**.
+---
 
-📫 Reach out if you want to collaborate [Anuchoug@uw.edu](mailto:Anuchoug@uw.edu)
+## About Me
+
+I'm a passionate developer with a love for **AI and machine learning**, especially in using technology to solve real-world problems in **healthcare** and **business**. Currently pursuing my **MS in Information Systems** at the University of Washington, I hold a **B.S. in Computer Science**, and I’m seeking **full-time roles** in **Software Engineering** or **AI/ML**.
+
+📍 Based in Seattle, WA  
+📫 Let’s connect → [Anuchoug@uw.edu](mailto:Anuchoug@uw.edu)
 
 ---
 
 ## 🎓 Graduate Coursework
 
-- 📊 [MSIS502: Business Data Analysis](https://github.com/Anushka23ja/MSIS502)  
-- 📈 [MSIS504: Business Decision Models](https://github.com/Anushka23ja/MSIS504)  
-- 🧠 [MSIS501: Information Technology & Organizational Strategy](https://github.com/Anushka23ja/MSIS501)
+| Course | Description |
+|--------|-------------|
+| [MSIS502](https://github.com/Anushka23ja/MSIS502) | 📊 Business Data Analysis |
+| [MSIS504](https://github.com/Anushka23ja/MSIS504) | 📈 Business Decision Models |
+| [MSIS501](https://github.com/Anushka23ja/MSIS501) | 🧠 IT & Organizational Strategy |
 
 ---
 
-## 👩‍🎓 Undergraduate Coursework
+## 👩‍🎓 Undergraduate Highlights
 
-- 🔢 [CSS343: Data Structures, Algorithms, & Discrete Math II](https://github.com/Anushka23ja/CSS343)  
-- 🖥️ [CSS422: Hardware and Computer Organization](https://github.com/Anushka23ja/CSS422)  
-- 💻 [CSS430: Operating Systems](https://github.com/Anushka23ja/CSS430)  
-- 🧪 [Capstone Project: ML Models Predicting Physical Activity](https://github.com/Anushka23ja/CapstoneProject)
+| Course | Focus |
+|--------|-------|
+| [CSS343](https://github.com/Anushka23ja/CSS343) | 🔢 Data Structures & Algorithms |
+| [CSS422](https://github.com/Anushka23ja/CSS422) | 🖥️ Computer Organization |
+| [CSS430](https://github.com/Anushka23ja/CSS430) | 💻 Operating Systems |
+| [Capstone](https://github.com/Anushka23ja/CapstoneProject) | 🧪 ML Models for Physical Activity |
+
+---
+
+## 🌟 Featured Projects
+
+- 🤝 [Internship Matcher](https://github.com/Anushka23ja/InternshipMatcher): Empowering underrepresented students to find tech opportunities.
+- 💬 [Gen Z Mental Health AI](https://github.com/Anushka23ja/MentalHealthAI): A sentiment-based chatbot promoting wellness.
+- 🎵 [Real-Time Emotion Music](https://github.com/Anushka23ja/EmotionMusic): Matches your mood to a music vibe using facial emotion detection.
 
 ---
 
 ## 📚 Learning Journey
 
-Ongoing practice, exercises, and notes from programming languages and tools I’ve learned or am currently exploring:
+| Language/Tool | Repo |
+|---------------|------|
+| 🐍 Python | [Python Practice](https://github.com/Anushka23ja/Python-Learning) |
+| 💻 C++ | [C++ Notes](https://github.com/Anushka23ja/Cpp-Learning) |
+| ☕ Java | [Java Concepts](https://github.com/Anushka23ja/Java-Learning) |
+| 🌐 JavaScript | [Frontend Projects](https://github.com/Anushka23ja/JavaScript-Learning) |
+| 🤖 Machine Learning | [ML Experiments](https://github.com/Anushka23ja/ML-Learning) |
 
-- 🐍 [Python Practice](https://github.com/Anushka23ja/Python-Learning)  
-- 💻 [C++ Notes & Projects](https://github.com/Anushka23ja/Cpp-Learning)  
-- ☕ [Java Concepts & Practice](https://github.com/Anushka23ja/Java-Learning)  
-- 🌐 [JavaScript / Web Dev](https://github.com/Anushka23ja/JavaScript-Learning)  
-- 🧠 [AI/ML Mini Projects](https://github.com/Anushka23ja/ML-Learning)
-
-> _(Replace the links with your actual learning repos or folders later.)_
+> ✨ I'm always exploring new tools, solving problems, and leveling up!
 
 ---
 
 ## 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,firebase,git,figma" />
+</p>
 
 ---
 
-## 🌐 Let’s Connect!
+## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushkaachougule/)
-[![Email](https://img.shields.io/badge/Email-Anuchoug@uw.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Anuchoug@uw.edu)
+<p align="center">
+  <a href="mailto:Anuchoug@uw.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-> 🧠 *Building thoughtful, intelligent software — one commit at a time.*
+## 🔥 Fun Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka23ja&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
+
+---
+
+> 💡 *“Code is the closest thing we have to magic.”*

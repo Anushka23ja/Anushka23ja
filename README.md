@@ -42,7 +42,7 @@ I'm a driven and curious developer passionate about applying **AI and machine le
 
 ---
 
-## 🚀 Learning & Projects
+## 🌱 Learning & Projects
 
 | Language/Tool | Repo |
 |---------------|------|

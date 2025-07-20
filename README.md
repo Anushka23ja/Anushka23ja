@@ -1,18 +1,23 @@
 <h1 align="center">👋 Hi, I’m Anushka</h1>
 
 <p align="center">
-  <em>👩‍💻 Software Engineer | 💡 Passionate about AI/ML | 🧠 Growing Through Code</em><br>
-  <strong>Engineering AI to Make Life Better.</strong>
+  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/code.gif" alt="Coding animation" width="400"/>
+</p>
+
+<p align="center">
+  <em>Software Engineer | AI/ML Enthusiast | Lifelong Learner</em><br>
+  <strong>Building Intelligent Systems That Make Life Better.</strong>
 </p>
 
 ---
 
-## About Me
+## 🧠 About Me
 
-I'm a passionate developer with a love for **AI and machine learning**, especially in using technology to solve real-world problems in **healthcare** and **business**. Currently pursuing my **MS in Information Systems** at the University of Washington, I hold a **B.S. in Computer Science**, and I’m seeking **full-time roles** in **Software Engineering** or **AI/ML**.
+I'm a driven and curious developer passionate about applying **AI and machine learning** to real-world challenges in **healthcare** and **business**. I hold a **B.S. in Computer Science** and am currently pursuing my **M.S. in Information Systems** at the **University of Washington**.
 
-📍 Based in Seattle, WA  
-📫 Let’s connect → [Anuchoug@uw.edu](mailto:Anuchoug@uw.edu)
+🔍 Seeking **full-time roles** in **Software Engineering** or **Applied AI/ML**  
+📍 Seattle, WA  
+📫 Email → [Anuchoug@uw.edu](mailto:Anuchoug@uw.edu)
 
 ---
 
@@ -37,7 +42,7 @@ I'm a passionate developer with a love for **AI and machine learning**, especial
 
 ---
 
-## 📚 Learning Journey
+## 🚀 Learning & Projects
 
 | Language/Tool | Repo |
 |---------------|------|
@@ -59,9 +64,4 @@ I'm a passionate developer with a love for **AI and machine learning**, especial
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="mailto:Anuchoug@uw.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
+<p a

@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>Software Engineer | AI/ML Enthusiast | Lifelong Learner</em><br>
-  <strong>Building Intelligent Systems That Make Life Better.</strong>
+  <strong>Building AI Systems That Make Life Better. </strong>
 </p>
 
 ---
@@ -42,7 +42,7 @@ I'm a driven and curious developer passionate about applying **AI and machine le
 
 ---
 
-## 🌱 Learning & Projects
+## 🚀 Learning & Projects
 
 | Language/Tool | Repo |
 |---------------|------|

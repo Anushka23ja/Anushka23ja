@@ -37,20 +37,12 @@ I'm a passionate developer with a love for **AI and machine learning**, especial
 
 ---
 
-## 🌟 Featured Projects
-
-- 🤝 [Internship Matcher](https://github.com/Anushka23ja/InternshipMatcher): Empowering underrepresented students to find tech opportunities.
-- 💬 [Gen Z Mental Health AI](https://github.com/Anushka23ja/MentalHealthAI): A sentiment-based chatbot promoting wellness.
-- 🎵 [Real-Time Emotion Music](https://github.com/Anushka23ja/EmotionMusic): Matches your mood to a music vibe using facial emotion detection.
-
----
-
 ## 📚 Learning Journey
 
 | Language/Tool | Repo |
 |---------------|------|
-| 🐍 Python | [Python Practice](https://github.com/Anushka23ja/Python-Learning) |
-| 💻 C++ | [C++ Notes](https://github.com/Anushka23ja/Cpp-Learning) |
+| 🐍 Python | [Python Practices](https://github.com/Anushka23ja/Python-Learning) |
+| 💻 C++ | [C++ Concepts + Notes](https://github.com/Anushka23ja/Cpp-Learning) |
 | ☕ Java | [Java Concepts](https://github.com/Anushka23ja/Java-Learning) |
 | 🌐 JavaScript | [Frontend Projects](https://github.com/Anushka23ja/JavaScript-Learning) |
 | 🤖 Machine Learning | [ML Experiments](https://github.com/Anushka23ja/ML-Learning) |

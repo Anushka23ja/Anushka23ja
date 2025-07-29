@@ -42,18 +42,6 @@ I'm a driven and curious developer passionate about applying **AI and machine le
 
 ---
 
-## 🚀 Learning & Projects
-
-| Language/Tool | Repo |
-|---------------|------|
-| 🐍 Python | [Python Practices](https://github.com/Anushka23ja/Python-Learning) |
-| 💻 C++ | [C++ Concepts + Notes](https://github.com/Anushka23ja/Cpp-Learning) |
-| ☕ Java | [Java Concepts](https://github.com/Anushka23ja/Java-Learning) |
-| 🌐 JavaScript | [Frontend Projects](https://github.com/Anushka23ja/JavaScript-Learning) |
-| 🤖 Machine Learning | [ML Experiments](https://github.com/Anushka23ja/ML-Learning) |
-
----
-
 ## 🧰 Tech Stack
 
 <p align="center">

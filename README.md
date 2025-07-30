@@ -48,8 +48,5 @@ I'm a driven and curious developer passionate about applying **AI and machine le
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,firebase,git,figma" />
 </p>
 
----
-
-## 🌐 Connect with Me
 
 <p a

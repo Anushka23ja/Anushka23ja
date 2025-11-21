@@ -27,6 +27,7 @@ I'm a driven and curious developer passionate about applying **AI and machine le
 | [MSIS502](https://github.com/Anushka23ja/MSIS502) | 📊 Business Data Analysis |
 | [MSIS504](https://github.com/Anushka23ja/MSIS504) | 📈 Business Decision Models |
 | [MSIS501](https://github.com/Anushka23ja/MSIS501) | 🧠 IT & Organizational Strategy |
+| [MSIS524](https://github.com/Anushka23ja/MSIS502) | 📁 Managing Information Technology Projects |
 
 ---
 

@@ -1,13 +1,5 @@
 <h1 align="center">👋 Hi, I’m Anushka</h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/code.gif" alt="Coding animation" width="400"/>
-</p>
-<p align="center">
-  <em>Software Engineer | Graduate Student | AI/ML Learner </em><br>
-  <strong>Building AI Systems That Make Life Better. </strong>
-</p>
-
 ---
 
 ## 🧠 About Me
